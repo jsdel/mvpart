@@ -30,6 +30,6 @@
 #define FLOAT double    /* see rpart.h */
 #endif
 
-#ifndef Sint
-#define Sint int
+#ifndef int
+#define int int
 #endif
